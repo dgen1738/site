@@ -8,8 +8,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<link href="https://vjs.zencdn.net/5.10.4/video-js.css" rel="stylesheet">
+<div>
+  <video id="my-video" class="video-js" controls preload="auto" width="300" height="480" data-setup='{"playbackRates": [1, 1.5, 2] }'>
+    <source src="<!------- ADD VIDEO  LINK HERE ------>" type='video/mp4'>
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a web browser that
+      <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+  </video>
+</div>
+
+<script src="https://vjs.zencdn.net/5.10.4/video.js"></script>
+
+https://github.com/dgen1738/site/edit/gh-pages/index.md
 
 # Header 1
 ## Header 2
