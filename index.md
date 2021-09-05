@@ -47,6 +47,8 @@ https://github.com/dgen1738/site/edit/gh-pages/index.md
   </video>
 </div>
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1630847610/video_to_markdown/images/youtube--SzuZnh91U8E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/SzuZnh91U8E "")
+
 <script src="https://vjs.zencdn.net/5.10.4/video.js"></script>
  [![Alternate Text]({image-url})]({https://youtu.be/SzuZnh91U8E} "Link Title") 1
 ## Header 2
