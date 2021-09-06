@@ -6,51 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-<link href="https://vjs.zencdn.net/5.10.4/video-js.css" rel="stylesheet">
-<div>
-  <video id="my-video" class="video-js" controls preload="auto" width="300" height="480" data-setup='{"playbackRates": [1, 1.5, 2] }'>
-    <source src="<!------- ADD VIDEO  LINK HERE ------>" type='video/mp4'>
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a web browser that
-      [link](http://videojs.com/html5-video-support/) target="_blank">supports HTML5 video</a>
-    </p>
-  </video>
-</div>
-
-<script src="https://vjs.zencdn.net/5.10.4/video.js"></script>
-
-https://github.com/dgen1738/site/edit/gh-pages/index.md
-
-<link href="https://vjs.zencdn.net/5.10.4/video-js.css" rel="stylesheet">
-<div>
-  <video id="my-video" class="video-js" controls preload="auto" width="300" height="480" data-setup='{"playbackRates": [1, 1.5, 2] }'>
-    <source src="<!------- ADD VIDEO  LINK HERE ------>" type='video/mp4'>
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a web browser that
-      <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-    </p>
-  </video>
-</div>
-
-<script src="https://vjs.zencdn.net/5.10.4/video.js"></script>
-
-<link href="https://vjs.zencdn.net/5.10.4/video-js.css" rel="stylesheet">
-<div>
-  <video id="my-video" class="video-js" controls preload="auto" width="300" height="480" data-setup='{"playbackRates": [1, 1.5, 2] }'>
-    <source src="<!------- ADD VIDEO  LINK HERE ------>" type='video/mp4'>
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a web browser that
-      <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-    </p>
-  </video>
-</div>
-
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1630847610/video_to_markdown/images/youtube--SzuZnh91U8E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/SzuZnh91U8E "")
-
-<script src="https://vjs.zencdn.net/5.10.4/video.js"></script>
- [![Alternate Text]({image-url})]({https://youtu.be/SzuZnh91U8E} "Link Title") 1
+[![rain](https://i.ytimg.com/vi/6Hpd7KXvRCY/maxresdefault.jpg)](https://youtu.be/6Hpd7KXvRCY "rain")
 ## Header 2
 ### Header 3
 
